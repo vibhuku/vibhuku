@@ -1,26 +1,323 @@
-<h1 align="center">Hi 👋, I'm Vibhu kushwaha</h1>
-<h3 align="center">B.Tech CSE(AI/ML)Student | Aspiring Ai/Ml Developer</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vibhuku&label=Profile%20views&color=0e75b6&style=flat" alt="vibhuku" /> </p>
+# 👋 Hey, I'm Vibhu Kushwaha
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhuku" alt="vibhuku" /></a> </p>
+### 🚀 CSE • AI/ML • Developer • Builder
 
-- 🔭 I’m currently working on [Zyro ai](https://github.com/vibhuku/zyro/commit/40ed7d16d6fb909a3182a1bb15d3c990c147e950)
+<p>
+  <a href="https://github.com/vibhuku">
+    <img src="https://img.shields.io/badge/GitHub-vibhuku-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/vibhu-kushwaha-b79861289">
+    <img src="https://img.shields.io/badge/LinkedIn-Vibhu%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+</p>
 
-- 🌱 I’m currently learning **python,C,C++, Ai/Ml, Machine Learning,React.Js, JavaScript, Git & GitHub**
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vibhuku&style=for-the-badge&color=blueviolet" alt="Profile Views">
+</p>
 
-- 👯 I’m looking to collaborate on **web/app Development**
+</div>
 
-- 💬 Ask me about **Full Stack Dev**
+---
 
-- 📫 How to reach me **vibhukushwaha440@gamil.com**
+## 🧑‍💻 About Me
 
-- ⚡ Fun fact **I can spend hours Coding when I get an interesting project idea!!**
+```yaml
+name: Vibhu Kushwaha
+username: vibhuku
+focus: Computer Science + AI/ML
+currently_learning:
+  - Python
+  - Artificial Intelligence
+  - Machine Learning
+  - Web Development
+  - Data Structures & Algorithms
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vibhu-kushwaha-b79861289" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vibhu-kushwaha-b79861289" height="30" width="40" /></a>
-<a href="https://instagram.com/surixo._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="surixo._" height="30" width="40" /></a>
+interests:
+  - AI & ML
+  - AI Automation
+  - Full-Stack Development
+  - Robotics
+  - Developer Tools
+
+goal: Build useful AI-powered products and eventually create my own AI company.
+```
+
+I enjoy turning ideas into working projects and exploring how **AI, software and automation** can solve real-world problems.
+
+---
+
+## ⚡ GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=vibhuku&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vibhuku&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=vibhuku&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<a href="https://github.com/vibhuku">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vibhuku&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+
+</a>
+
+</div>
+
+---
+
+## 📈 Contribution Overview
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vibhuku&theme=tokyonight" alt="Contribution Graph" />
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vibhuku&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌍 NERA
+
+**AI-Based Landslide Early Warning & Risk Monitoring System**
+
+An AI-powered platform designed to monitor landslide risk using environmental and geographical data.
+
+**Tech:**
+`React` `Tailwind CSS` `Python` `AI/ML` `Leaflet` `PostgreSQL`
+
+<a href="https://github.com/vibhuku/NER-landslide">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🤖 Zyro AI
+
+**AI Assistant & Automation Platform**
+
+An idea focused on building intelligent AI-powered tools, assistants and automation systems.
+
+**Focus:**
+`AI` `Automation` `Python` `Web` `LLMs`
+
+<a href="https://github.com/vibhuku">
+<img src="https://img.shields.io/badge/Explore%20GitHub-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 💻 Class Works
+
+A collection of programming practice, experiments and academic coding projects.
+
+**Tech:**
+`C` `Python` `HTML` `CSS` `JavaScript`
+
+<a href="https://github.com/vibhuku/class-works-wrks-only">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🌐 More Projects
+
+I'm continuously building new projects around AI, web development, automation and programming.
+
+<a href="https://github.com/vibhuku?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Repositories-181717?style=for-the-badge&logo=github">
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,sql" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,leaflet" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+
+### ⚙️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma" />
+</p>
+
+---
+
+## 🧠 Currently Learning
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| 🐍 Python | Programming fundamentals & projects |
+| 🤖 AI/ML | Machine Learning & AI concepts |
+| 🌐 Web | Modern frontend & backend development |
+| 🧮 DSA | Problem solving & algorithms |
+| 🗄️ Databases | SQL & data management |
+| 🚀 Projects | Building real-world applications |
+
+</div>
+
+---
+
+## 📌 My Development Journey
+
+```text
+Programming
+     │
+     ├── Python
+     ├── C / C++
+     └── JavaScript
+           │
+           ▼
+Web Development
+           │
+           ├── Frontend
+           ├── Backend
+           └── APIs
+           │
+           ▼
+Computer Science
+           │
+           ├── DSA
+           ├── Databases
+           └── System Design
+           │
+           ▼
+AI / ML
+           │
+           ├── Machine Learning
+           ├── Deep Learning
+           └── AI Applications
+           │
+           ▼
+🚀 Build AI Products
+```
+
+---
+
+## 🌟 What I'm Building
+
+- 🤖 AI-powered applications
+- 🧠 Machine Learning projects
+- 🌐 Modern web applications
+- ⚡ Automation tools
+- 🌍 Real-world problem-solving platforms
+- 🚀 Experimental developer projects
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vibhuku&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.demolab.com/?user=vibhuku&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vibhuku/vibhuku/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/vibhuku">
+<img src="https://img.shields.io/badge/GitHub-vibhuku-181717?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/in/vibhu-kushwaha-b79861289">
+<img src="https://img.shields.io/badge/LinkedIn-Vibhu%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Build. Learn. Experiment. Repeat."
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
 <a href="https://www.youtube.com/c/udaan with vibhu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="udaan with vibhu" height="30" width="40" /></a>
 </p>
 
